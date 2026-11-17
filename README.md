@@ -11,13 +11,13 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🎓 Pursuing B.Tech in Computer Science (AI & ML) at **Gokaraju Rangaraju Institute of Engineering & Technology (GRIET)**, graduating in 2028
-- 💼 Part-time remote software intern at **HNNOIX**; selected as a summer intern at **JP Morgan**
-- 🏆 1st Prize at the **FoodLoop Ideathon** (GRIET CSI) and a participant in 5+ inter-college hackathons (Microsoft, KLH, NRCM, MVSR, CVR)
-- 🤝 Part of the CSI Club, Street Cause Club and Rhythms Cultural Club at GRIET
-- 🌱 Building products at the intersection of **AI, healthcare and everyday student problems**
+- Pursuing B.Tech in Computer Science (AI & ML) at **Gokaraju Rangaraju Institute of Engineering & Technology (GRIET)**, graduating in 2028
+- Part-time remote software intern at **HNNOIX**; selected as a summer intern at **JP Morgan**
+- 1st Prize at the **FoodLoop Ideathon** (GRIET CSI) and a participant in 5+ inter-college hackathons (Microsoft, KLH, NRCM, MVSR, CVR)
+- Part of the CSI Club, Street Cause Club and Rhythms Cultural Club at GRIET
+- Building products at the intersection of **AI, healthcare and everyday student problems**
 
 ## 🛠️ Tech Stack
 
@@ -56,25 +56,25 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🚑 **RescueRoute** | Real-time "Golden Hour" emergency coordination between citizens, ambulances, hospitals and control rooms, with AI-assisted triage and QR-based patient info | Node.js, Socket.IO, Gemini, Leaflet |
-| 🧠 **NeuroLens** | Smartphone-camera concussion screening using the pupillary light reflex, with a longitudinal baseline and report generation | Python, OpenCV, MediaPipe, Streamlit |
-| 🥗 [**NutriWise**](https://github.com/SrikarShetkar/NutriWise) | Budget-friendly personalized meal and calorie planner built for Indian college and hostel students | React, TypeScript, Vite, Tailwind, Express |
-| 📚 [**Synapset**](https://github.com/SrikarShetkar/Synapset) | AI-powered adaptive learning platform with spaced-repetition revision scheduling based on the forgetting curve | JavaScript, OpenAI API |
-| 📣 **CampaignMind AI** | RAG-based campaign generation for CPG marketing teams, built for a TCS campus hackathon | Python, FAISS |
-| 🏅 **SportSphere** | Athlete networking platform with profiles, media uploads and OAuth login (top 40 of 140 teams) | PostgreSQL (Neon), Cloudinary, OAuth |
-| ♻️ **FoodLoop** | Food waste reduction concept, winner of the GRIET CSI Ideathon | Concept / prototype |
+| **RescueRoute** | Real-time "Golden Hour" emergency coordination between citizens, ambulances, hospitals and control rooms, with AI-assisted triage and QR-based patient info | Node.js, Socket.IO, Gemini, Leaflet |
+| **NeuroLens** | Smartphone-camera concussion screening using the pupillary light reflex, with a longitudinal baseline and report generation | Python, OpenCV, MediaPipe, Streamlit |
+| [**NutriWise**](https://github.com/SrikarShetkar/NutriWise) | Budget-friendly personalized meal and calorie planner built for Indian college and hostel students | React, TypeScript, Vite, Tailwind, Express |
+| [**Synapset**](https://github.com/SrikarShetkar/Synapset) | AI-powered adaptive learning platform with spaced-repetition revision scheduling based on the forgetting curve | JavaScript, OpenAI API |
+| **CampaignMind AI** | RAG-based campaign generation for CPG marketing teams, built for a TCS campus hackathon | Python, FAISS |
+| **SportSphere** | Athlete networking platform with profiles, media uploads and OAuth login (top 40 of 140 teams) | PostgreSQL (Neon), Cloudinary, OAuth |
+| **FoodLoop** | Food waste reduction concept, winner of the GRIET CSI Ideathon | Concept / prototype |
 
 ## 🏆 Achievements
 
 - 🥇 1st Prize: **FoodLoop Ideathon**, GRIET
 - 🥇 1st Prize: **ELYSIUM** art competition and **SPICES** cooking competition, GRIET
-- 💻 Participated in 5+ inter-college hackathons, including Microsoft, KLH, NRCM, MVSR and CVR
+- 💻 Participated in 10+ inter-college hackathons & ideathons, including Microsoft, KLH, NRCM, MVSR and CVR
 - 🏦 Participated in the **JP Morgan Code for Good** hackathon
 - 📊 Completed the **Deloitte Data Analytics Job Simulation** (Forage)
 
-## 📫 Let's Connect
+## Let's Connect
 
-I'm always up for hackathon teams, open-source collaboration and interesting AI/healthcare problems. Reach me on [LinkedIn](https://www.linkedin.com/in/srikar-shetkar0725/) or at srikarshetkar@gmail.com.
+I'm always up for hackathon teams, open-source collaboration and interesting AI/healthcare problems. Reach me on [LinkedIn](https://www.linkedin.com/in/srikar-shetkar/) or at srikarshetkar@gmail.com.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SrikarShetkar&show_icons=true&theme=transparent" alt="GitHub stats" height="160">
